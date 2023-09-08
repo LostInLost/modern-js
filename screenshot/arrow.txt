@@ -1,0 +1,3 @@
+disini menjelaskan bahwa sebuah function dapat dibuat singkat
+dengan membuat Arrow Function. salah satu kelebihan Arrow Function
+adalah dapat mengambil variable diluar function

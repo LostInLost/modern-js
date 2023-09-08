@@ -1,0 +1,2 @@
+Di sini untuk membuat sebuah pop-up informasi menggunakan function javascript yaitu alert()
+di dalam function ini terdapat 1 parameter yang digunakan sebagai pesan dari alert tersebut

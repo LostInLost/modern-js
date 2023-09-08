@@ -1,0 +1,3 @@
+Disini menjelaskan bahwa dalam sebuah variable lebih tepatnya dalam 
+JSON itu dapat kita buat sebuah function yang dimana nanti akan
+beroperasi ketika variable dan fungsi itu di deklarasi

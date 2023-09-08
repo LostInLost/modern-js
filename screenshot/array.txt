@@ -1,0 +1,2 @@
+Disini menjelaskan bahwa sebuah pemanggilan array itu ditentukan
+dari index array itu sendiri

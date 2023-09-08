@@ -1,0 +1,2 @@
+Menurut saya disini di jelaskan bahwa sebuah class itu bisa digabung
+dengan cara memakai super class(extends class)

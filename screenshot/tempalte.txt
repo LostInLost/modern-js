@@ -1,0 +1,3 @@
+Disini menggunakan sebuah function javascript yaitu 
+prompt yang dimana tugasnya adalah menyimpan sebuah 
+input yang dimasukkan user melalui pop-up

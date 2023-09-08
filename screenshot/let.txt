@@ -1,0 +1,2 @@
+Disini membuat text dinamis yang bisa dirubah" dengan bertipe let
+ketika variable tersebut digunakan maka akan me replace value awal

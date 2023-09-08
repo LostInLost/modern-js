@@ -1,0 +1,4 @@
+Disini dijelaskan bahwa dalam sebuah function itu bisa 
+membuat sebuah parameter yang dimana paramternya dapat di isi 
+secara default(mempunyai nilai awal) sehingga bisa langsung
+di definisikan

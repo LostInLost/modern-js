@@ -1,0 +1,4 @@
+di sini menjelaskan bahwa dalam sebuah parameter itu kita dapat 
+memanggil value dalam parameter json itu sendiri sehingga
+mempersingkat pemanggilan variable tanpa harus membuat
+variable lagi

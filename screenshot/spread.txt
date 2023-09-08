@@ -1,0 +1,2 @@
+Menurut saya disini menjelaskan bahwa beberapa variable yang 
+berisi array itu dapat kita gabungkan

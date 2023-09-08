@@ -23,3 +23,5 @@ class Expedition extends Holiday {
 }
 
 const tripWithGear = new Expedition('Semeru', 10, ['Camera', 'Flags'])
+
+tripWithGear.info();

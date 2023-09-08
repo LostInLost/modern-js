@@ -1,0 +1,3 @@
+Menurut saya disini dijelaskan bahwa sebuah variable yang berisi array
+lebih tepatnya value yang ada didalamnya ini dapat kita istirahatkan
+atau tidak ditampilkan

@@ -1,0 +1,3 @@
+Disini menjelaskan bahwa penggunaan singkat Arrow Function itu
+dapat digunakan dalam berbagai operasi yang ada seperti menggabung
+perhitungan, penambahan data, dan masih banyak lagi
